@@ -1,0 +1,11 @@
+{
+  "name": "pivistka",
+  "version": "1.0.0",
+  "description": "pivistka for dima",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
